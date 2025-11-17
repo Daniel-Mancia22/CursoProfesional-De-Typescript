@@ -33,3 +33,5 @@ myDog.sayHello();
 //public: default, se puede acceder desde cualquier parte
 //private: solo se puede acceder desde la clase donde se definio
 //protected: se puede acceder desde la clase donde se definio y desde las clases que heredan
+
+export { Animal, Dog as BasicClass };

@@ -7,7 +7,7 @@
     "start:types": "tsc Basic/types.ts --outdir dist/ && node dist/types.js",
     "start:enums": "tsc Basic/enums.ts --outdir dist/ && node dist/enums.js",
     "start:interface": "tsc Basic/interface.ts --outdir dist/ && node dist/interface.js",
-    "start:customType": "tsc Basic/customType.ts --outdir dist/ && node dist/customType.js",
+    "start:InterfaceVSclases": "tsc Basic/InterfaceVSclases.ts --outdir dist/ && node dist/InterfaceVSclases.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
